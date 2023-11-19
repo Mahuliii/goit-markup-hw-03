@@ -118,7 +118,7 @@ body {
 .contact {
     font-style: normal;
 }
-.contac-container {
+.contact-container {
 display: flex;
 column-gap: 40px;
 }
