@@ -253,6 +253,7 @@ column-gap: 40px;
 }
 .low {
     background-color: #2e2f42;
+    padding-top: 101.5px;
    }
 .logo-link-low {
     color: var(--CLOUD, #F4F4FD);
@@ -268,4 +269,5 @@ column-gap: 40px;
         letter-spacing: 0.02em;
         width: 264px;
         margin-top: 17.5px;
+        padding-bottom: 100px;
         }
